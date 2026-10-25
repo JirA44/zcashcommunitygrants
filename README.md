@@ -1,3 +1,13 @@
+## Français
+
+Site Jekyll consacré aux demandes de subventions de la communauté Zcash. Exemple : consulter les informations de candidature ou contribuer au contenu du site.
+
+## English
+
+A Jekyll site for Zcash community grant applications. Example: review application information or contribute to the site content.
+
+---
+
 # Urban
 
 Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/).
